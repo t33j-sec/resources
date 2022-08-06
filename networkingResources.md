@@ -16,12 +16,8 @@
 
 ### OSI, TCP/IP Model, IP Classes
 
-Insert image
+![CCNACheatSheet](https://user-images.githubusercontent.com/24508513/183228511-673a417d-4bdd-436d-ad88-fe1ed46e4ce6.png)
 
 ### TCP 3-Way Handshake
 
-Insert image
-
-
-
-
+![TCP IP Model CheatSheet](https://user-images.githubusercontent.com/24508513/183228529-8c24ea54-f4d2-4587-a1de-94ea562d7ea4.png)
