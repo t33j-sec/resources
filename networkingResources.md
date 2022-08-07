@@ -10,6 +10,8 @@
 
 **[Eli, The Computer Guy](https://www.youtube.com/c/Elithecomputerguypage)** - Really good videos that tend to be **deep** dives into a lot of different  topics. Eli's videos tend to be longer in length.
 
+**[Ben Eater Networking Tutorials](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)** - Geat Playlist about networking from the logic level up to TCP/IP packect beark downs in wireshark.
+
 ------------------
 
 ## Cheat Sheets
